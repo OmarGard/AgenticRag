@@ -1,0 +1,9 @@
+python3 -m pip install langchain-nomic langchain_community tiktoken langchainhub
+python3 -m pip install ollama
+python3 -m pip install jupyter
+python3 -m pip install chromadb
+python3 -m pip install langchain-chroma
+python3 -m pip install langchain-ollama
+python3 -m pip install -U langchain-google-community  
+python3 -m pip install -U langgraph
+
