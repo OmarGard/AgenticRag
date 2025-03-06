@@ -6,4 +6,7 @@ python3 -m pip install langchain-chroma
 python3 -m pip install langchain-ollama
 python3 -m pip install -U langchain-google-community  
 python3 -m pip install -U langgraph
+python3 -m pip install -U langchain
+python3 -m pip install "fastapi[standard]"
+
 
